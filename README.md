@@ -1,7 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi 👋, I'm Kusal Kalinga</h1>
 <h3 align="center">Junior Software Engineer</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bkusalkalinga00%7D/count.svg" alt="visitor badge"/></p>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -21,24 +20,6 @@
 </table>
 
 ---
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kusalkalinga00&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kusalkalinga00&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
