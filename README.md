@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi 👋, I'm Kusal Kalinga</h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Software Engineer (Mid Level)</h3>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
