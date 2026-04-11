@@ -31,6 +31,7 @@ I'm a software engineer focused on building modern digital products with clean U
 - 🔐 [Hono Backend with Better Auth](https://github.com/kusalkalinga00/hono-backend-with-better-auth) - Lightweight Hono backend with Better Auth, Drizzle ORM, PostgreSQL, and validated todo APIs.
 - 📱 [Bunny App](https://github.com/kusalkalinga00/bunny-sm-platform-react-native) - Social media mobile app with authentication, posts, notifications, profiles, and realtime updates powered by Supabase.
 - 🎙️ [iOS Native Audio Module](https://github.com/kusalkalinga00/ios-native-audio-module) - React Native app that bridges Swift-based iOS audio recording capabilities into JavaScript through a custom native module.
+- 🖥️ [BTC Realtime Price Tauri Desktop App](https://github.com/kusalkalinga00/btc-realtime-price-tauri-desktop-app) - Lightweight macOS menubar desktop app built with Tauri, Rust, React, and TypeScript to display live BTCUSDT price data.
 - 📈 [Crypto Dashboard](https://github.com/kusalkalinga00/crypto-dashboard) - Realtime BTC/USDT dashboard with live ticker updates, candlestick charts, and a polished trading-style interface.
 - 🎬 [Anime Vault](https://github.com/kusalkalinga00/anime_vault) - Next.js app for anime discovery with server actions, infinite scroll, and a responsive UI.
 - 📰 [Summize](https://github.com/kusalkalinga00/sumz-v1) - AI article summarizer built with React, Vite, RTK Query, and RapidAPI for URL-based summaries and saved history.
