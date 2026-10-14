@@ -23,7 +23,7 @@ I'm a software engineer focused on building modern digital products with clean U
 - 📫 Reach me at **kusalkalingainfo@gmail.com**
 
 ### Selected Projects
-
+- 🎓 [Grammarbar](https://github.com/kusalkalinga00/grammarbar-project) - A macOS menu bar app that corrects grammar, spelling and punctuation in text you type or paste.
 - 🚀 [Crawly AI](https://github.com/kusalkalinga00/crawly-ai-tanstack-start) - AI-powered web crawler and content scraper that turns web pages into clean notes, summaries, and tags.
 - 🤖 [ZeroTier AI Frontend App](https://github.com/kusalkalinga00/zerotier-ai-frontend-app) - TanStack Start frontend for an AI product with Prisma-backed data models, Tailwind styling, and a polished product-style experience.
 - 🌍 [P2P Chat](https://github.com/kusalkalinga00/p2p-chat-app-cloudflare-workers) - 3D world chat experience using Cloudflare Durable Objects, WebSockets, and WebRTC for direct peer-to-peer messaging.
