@@ -41,6 +41,7 @@ I like taking AI models out of demos and putting them into products — and I bu
 
 ### Recent Articles
 
+- [Create Your Own AI Image Generator For Zero Dollars With Qwen-Image-2.1 and Modal](https://medium.com/@kusalkalingainfo/create-your-own-ai-image-generator-for-zero-dollars-with-qwen-image-2-1-and-modal-7c1687abe99e)
 - [How to Build a Robust Duplex Audio Recorder and Player for Bidirectional Audio Streaming in React Native iOS](https://medium.com/@kusalkalingainfo/how-to-build-a-robust-duplex-audio-recorder-and-player-for-bidirectional-audio-streaming-in-react-51e4479a2cda)
 - [How to integrate Google Map API in Nextjs 15](https://medium.com/@kusalkalingainfo/how-to-integrate-google-map-in-nextjs-15-d86dc00e5766)
 - [Stream audio using RecordRTC.js library](https://medium.com/@kusalkalingainfo/stream-audio-using-recordrtc-js-library-fe545c58d174)
