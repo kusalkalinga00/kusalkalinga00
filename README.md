@@ -36,7 +36,7 @@ I like taking AI models out of demos and putting them into products — and I bu
 ### Languages & Tools
 
 <p align="left">
-  <img src="assets/skills.svg" alt="Languages and tools: TypeScript, React, Next.js, React Native, Node.js, NestJS, Hono, Go, Python, Rust, FastAPI, Cloudflare, Supabase, PostgreSQL, Prisma, Tailwind CSS, Docker, Git" />
+  <img src="assets/skills-stack.svg" alt="Languages and tools: TypeScript, React, Next.js, React Native, Node.js, NestJS, Hono, Go, Python, Rust, FastAPI, Cloudflare, Supabase, PostgreSQL, Prisma, Tailwind CSS, Docker, Git" />
 </p>
 
 ### Recent Articles
