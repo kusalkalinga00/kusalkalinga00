@@ -19,7 +19,7 @@ I like taking AI models out of demos and putting them into products — and I bu
 - 🔭 Most recently: an image-generation app around a 7B model, a Go-based scraping engine, and a macOS menu bar app
 - 🌱 Deep-diving into **RAG pipelines, realtime systems, and LLM-powered apps**
 - 🛠️ Daily stack: **TypeScript · Next.js · React Native · Hono/NestJS · Cloudflare Workers · Go · Python**
-- 🇱🇰 Based in Sri Lanka, working remotely
+- 🇱🇰 Based in Sri Lanka, working remotely and hybrid
 - 📫 Reach me at **kusalkalingainfo@gmail.com**
 
 ### Featured Projects
