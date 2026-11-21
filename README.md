@@ -24,6 +24,7 @@ I like taking AI models out of demos and putting them into products — and I bu
 
 ### Featured Projects
 
+- 📖 [Reflow — PDF to EPUB](https://github.com/kusalkalinga00/reflow-pdf-to-epub) — PDF→EPUB 3 converter in Go that measures its own output: every conversion ships a fidelity tier, score, and list of what it lost, and books failing EPUBCheck are refused.
 - 🔍 [Go Base Web Scraper](https://github.com/kusalkalinga00/go-base-web-scraper) — API-only scraping engine in Go: Chromium/Colly/PDF fetch paths, Redis Streams job queue, PostgreSQL results, SSRF guard.
 - 🎨 [Latent — Image Generator](https://github.com/kusalkalinga00/latent-image-generator) — image generation & editing around a 7B model: drop a photo to edit it, or describe one to create it from scratch.
 - 📝 [GrammarBar](https://github.com/kusalkalinga00/grammarbar-project) — macOS menu bar app that corrects grammar and spelling on-device. Your text never leaves your Mac.
